@@ -1,0 +1,7 @@
+google-generativeai 
+python-pptx 
+Pillow 
+requests 
+python-dotenv 
+groq
+streamlit
