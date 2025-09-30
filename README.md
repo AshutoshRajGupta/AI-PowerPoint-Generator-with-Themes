@@ -1,8 +1,15 @@
 
 # 📊 AI PowerPoint Generator with Themes
 
-An AI-powered PowerPoint presentation generator built with **Groq LLM**, **Streamlit**, and **Unsplash API**.
-This project allows users to generate fully designed PowerPoint slides with AI-generated content, customizable themes, and optional images.
+This project is an AI-powered PowerPoint presentation generator that automates the process of creating professional and engaging slides. Instead of spending hours manually writing content and designing layouts, users can simply enter a topic and let the system generate a complete PowerPoint file.
+
+At its core, the project uses the Groq LLM (LLaMA-3.3-70B Versatile) to generate structured outlines, slide titles, and bullet points. The model ensures that the slides have a logical flow — starting from an introduction, moving into key points, applications, challenges, and ending with a conclusion.
+
+To make presentations visually appealing, the project integrates with the Unsplash API for fetching high-quality, royalty-free images relevant to the topic. If the API is unavailable, it falls back to placeholder images to maintain slide consistency.
+
+The design aspect is enhanced with a theme selector, allowing users to choose between Modern Blue, Classic Dark, and Minimal White themes. Each theme adjusts fonts, colors, and backgrounds to give a unique look and feel, much like real PowerPoint templates.
+
+In short, this project combines the power of LLMs for content generation, python-pptx for presentation building, and Unsplash for visuals to deliver a fast, customizable, and professional presentation-making tool.
 
 ---
 
