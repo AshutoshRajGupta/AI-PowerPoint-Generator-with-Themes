@@ -131,7 +131,11 @@ streamlit run main.py
 2. Select the **number of slides** (3–15).
 3. Choose a **theme** (Modern Blue, Classic Dark, Minimal White).
 4. Click **Generate Presentation**.
+ <img width="1093" height="682" alt="image" src="https://github.com/user-attachments/assets/c222f69f-e087-43dc-a433-f9ee4ec398c5" />
+
 5. Download the `.pptx` file and open it in PowerPoint or Google Slides.
+<img width="1153" height="787" alt="image" src="https://github.com/user-attachments/assets/7ce270c8-8572-4e32-ae65-ae2ad3f9afa7" />
+
 
 ---
 
